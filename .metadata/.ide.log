@@ -791,3 +791,8 @@
 2025-06-26 16:10:06,855 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
 2025-06-26 16:10:06,860 [INFO] ApiDb:448 - Save user favorites file C:\Users\kccistc/.stm32cubeide/favorites.mcus.txt: 1 item(s)
 2025-06-26 16:10:06,860 [INFO] ApiDb:452 - User favorites MCUs=[STM32F411RET6]
+2025-06-26 16:16:44,917 [INFO] Activator:176 - 
+
+
+2025-06-26 16:16:44,918 [INFO] Activator:177 - !SESSION log4j initialized
+2025-06-26 16:16:46,367 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 

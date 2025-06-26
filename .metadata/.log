@@ -81,3 +81,21 @@ java.lang.NullPointerException: Cannot invoke "com.st.stm32cube.common.mx.target
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-06-26 16:10:08.381
 !MESSAGE Indexed 'test' (19 sources, 81 headers) in 3.12 sec: 4,306 declarations; 18,187 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)
+!SESSION 2025-06-26 16:16:39.762 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\stm32_miniProject
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-06-26 16:16:41.109
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-26 16:16:44.763
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-26 16:16:44.764
+!MESSAGE Log4j2 initialized with config file C:\stm32_miniProject\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-26 16:16:46.760
+!MESSAGE Started RMI Server, listening on port 41337
